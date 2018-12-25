@@ -1,0 +1,29 @@
+img {
+  max-height: 70vh;
+
+}
+
+.wiou {
+  background-color: #060807;
+  height: 100vh;
+}
+
+#demo {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  font-family: 'Righteous', cursive;
+  padding: 0;
+}
+
+.alo {
+  background-color: #fe2550;
+  padding: 0;
+}
+
+.timer {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  font-family: 'Righteous', cursive;
+}
